@@ -1,9 +1,3 @@
-// const token = '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';
-// const options = {
-//     headers: {
-//         'Authorization': `token ${token}`
-//     }
-// }
 
 const url = 'https://api.github.com/users?per_page=100'
 
